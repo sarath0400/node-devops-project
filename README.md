@@ -48,25 +48,25 @@ REDIS_PORT=6379
 
 ## How to Run the Project
 
-### 1. Navigate to the project folder
+### 1 Navigate to the project folder
 
 cd node-devops-project
 
-### 2. Build and start containers
+### 2 Build and start containers
 
 docker compose up --build
 
-### 3. Access the application
+### 3 Access the application
 
 Open in browser:
 
-http://localhost:8090
+http://54.81.228.81:8090
 
 ---
 
 ## Health Endpoint
 
-http://localhost:8090/health
+http://54.81.228.81:8090/health
 
 Example Response:
 
